@@ -1,4 +1,4 @@
-Lidt of used libraries:
+List of used libraries:
 numpy
 pandas
 matplotlib.pyplot
